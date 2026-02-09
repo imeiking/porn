@@ -7,10 +7,22 @@
             "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/madou.js"
         },
         {
+            "name": "EXPORNTOONS", 
+            "type": 3, 
+            "api": "csp_EXPORNTOONS",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/EXPORNTOONS.js"
+        }
+        {
             "name": "jable", 
             "type": 3, 
             "api": "csp_jable",
             "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/jable.js"
+        },
+        {
+            "name": "javxx", 
+            "type": 3, 
+            "api": "csp_javxx",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/javxx.js"
         },
         {
             "name": "harunasan", 
