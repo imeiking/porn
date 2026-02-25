@@ -66,5 +66,11 @@
             "api": "csp_taiav",
             "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/taiav.js"
         }
+         {
+            "name": "beeg",
+            "type": 3,
+            "api": "csp_beeg",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/beeg.js"
+        }
     ]
 }
